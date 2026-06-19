@@ -3,8 +3,6 @@
 
 ### The influence of three chromosomal inversions on body size-related traits in *Drosophila melanogaster* from their ancestral range in Zambia.
 
-------------------------------------------------------------------------
-
 ## Dataset: Morphological traits measurements
 
 ### Dataset overview
