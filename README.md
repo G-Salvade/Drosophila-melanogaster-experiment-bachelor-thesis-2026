@@ -26,7 +26,7 @@ The 6 files correspond to the following structure:
 
 ------------------------------------------------------------------------
 
-## 🔍 File Details
+## File Details
 
 ### `1.WFAM.csv`
 
