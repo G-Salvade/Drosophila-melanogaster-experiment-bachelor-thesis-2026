@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/29149654/README.md)
 # README - *Drosophila melanogaster* Bachelor thesis
 
-### The influence of three chromosomal inversions on body size-related traits in *Drosophila melanogaster* from their ancestral range in Zambia
+### The influence of three chromosomal inversions on body size-related traits in *Drosophila melanogaster* from their ancestral range in Zambia.
 
 ------------------------------------------------------------------------
 
