@@ -15,16 +15,16 @@ The dataset consists of a total of **6 documents**, as each morphological trait 
 
 The 6 files correspond to the following structure:
 
-1.  WFAM.csv: Wing area measurements for females
-2.  WMAM.csv: Wing area measurements for males
+1.  FWAM.csv: Wing area measurements for females
+2.  MWAM.csv: Wing area measurements for males
 3.  FFLM.csv: Femur length measurements for females
-4.  FMLM.csv: Femur length measurements for males
-5.  TFLM.csv: Tibia length measurements for females
-6.  TMLM.csv: Tibia length measurements for males
+4.  MFLM.csv: Femur length measurements for males
+5.  FTLM.csv: Tibia length measurements for females
+6.  MTLM.csv: Tibia length measurements for males
 
 ## File Details
 
-### 1.WFAM.csv
+### 1.FWAM.csv
 
 -   **Dimensions:** 221 rows × 3 columns
 -   **Columns description:**
@@ -32,7 +32,7 @@ The 6 files correspond to the following structure:
     -   **Label:** Represents the name of each image, indicating the individual fly number and its replicate of origin.
     -   **Average:** Represents the average of the two measurements taken for each sample.
 
-### 2.WMAM.csv
+### 2.MWAM.csv
 
 -   **Dimensions:** 221 rows × 3 columns
 -   **Columns description:**
@@ -48,7 +48,7 @@ The 6 files correspond to the following structure:
     -   **Label:** Represents the name of each image, indicating the individual fly number and its replicate of origin.
     -   **Average:** Represents the average of the two measurements taken for each sample.
 
-### 4.FMLM.csv
+### 4.MFLM.csv
 
 -   **Dimensions:** 218 rows × 3 columns
 -   **Columns description:**
@@ -56,7 +56,7 @@ The 6 files correspond to the following structure:
     -   **Label:** Represents the name of each image, indicating the individual fly number and its replicate of origin.
     -   **Average:** Represents the average of the two measurements taken for each sample.
 
-### 5.TFLM.csv
+### 5.FTLM.csv
 
 -   **Dimensions:** 220 rows × 3 columns
 -   **Columns description:**
@@ -64,7 +64,7 @@ The 6 files correspond to the following structure:
     -   **Label:** Represents the name of each image, indicating the individual fly number and its replicate of origin.
     -   **Average:** Represents the average of the two measurements taken for each sample.
 
-### 6.TMLM.csv
+### 6.MTLM.csv
 
 -   **Dimensions:** 219 rows × 3 columns
 -   **Columns description:**
