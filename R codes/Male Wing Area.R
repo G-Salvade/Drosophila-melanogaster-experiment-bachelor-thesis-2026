@@ -129,6 +129,8 @@ WMOA_B4 <- ggplot(WMOA_HOMO, aes(x= Karyotype, y = Average, fill = Karyotype)) +
 
 # General box plot
 (WMOA_B1|WMOA_B2)/(WMOA_B3|WMOA_B4) + plot_annotation(title="Male Wing Area", 
+                                                      tag_levels='A', 
+                                                      theme=theme(plot.title=element_text(hjust=0.5, size =18, face="bold"),plot.caption = element_text(hjust=0.5, size =12))) 
                                                       
 
 
