@@ -184,5 +184,5 @@ FFOA_B4 <- ggplot(FFOA_HOMO, aes(x= Karyotype, y = Average, fill = Karyotype)) +
 
 
 
-                                                     theme=theme(plot.title=element_text(hjust=0.5, size =18, face="bold"),plot.caption = element_text(hjust=0.5, size =12)))
+                                                   
 
